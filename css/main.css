@@ -17,6 +17,18 @@ h2 {
   font-size: 2em;
 }
 
+span {
+  background-color: #dbb3cf;
+  padding: .5em;
+  margin: 1em;
+}
+
+div {
+  background-color: #c9dfb3;
+  padding: .5em;
+  margin: 1em;
+}
+
 section {
   color: #0c2a44;
 }
@@ -62,4 +74,12 @@ p:first-of-type::first-letter {
 [id="main-title"] {
   color: #240101;
   text-shadow: 0.1em 0.1em 0.1em purple;
+}
+
+.inline-block {
+  display: inline-block;
+}
+
+.center {
+  text-align: center;
 }
