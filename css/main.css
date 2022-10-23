@@ -3,6 +3,14 @@ body {
   font-size: large;
 }
 
+h1 {
+  font-weight: normal;
+  margin: 1em 0 1px 0;
+  padding: .5em 0 .5em 3px;
+  border-left: .5em solid purple;
+  background-color: #ececec;
+}
+
 p {
   color: #0c2a44;
   line-height: 1.5em;
