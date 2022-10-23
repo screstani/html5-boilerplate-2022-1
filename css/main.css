@@ -7,3 +7,10 @@ p {
   color: #0c2a44;
   line-height: 1.5em;
 }
+
+p::first-letter {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 4em;
+  font-weight: bold;
+  line-height: 1em;
+}
